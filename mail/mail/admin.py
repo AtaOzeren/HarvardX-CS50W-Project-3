@@ -1,3 +1,3 @@
-from django.contrib import admin  dasda 
+from django.contrib import
 
 # Register your models here.
